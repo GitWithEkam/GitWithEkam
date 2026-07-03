@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ekamnoor Singh
 
-<div align="center">
+<div align="left">
   
 ### 🤖 AI-Powered Full-Stack Developer | Aspiring DevOps Engineer | Tech Enthusiast
 
